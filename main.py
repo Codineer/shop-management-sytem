@@ -152,3 +152,5 @@ while running:
     elif userinp == 3:
         shopdatabase.cursor.close()
         break
+    
+    #test 1 successful
